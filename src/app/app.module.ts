@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ArelyComponent } from './arely/arely.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ArelyComponent
   ],
   imports: [
     BrowserModule,
