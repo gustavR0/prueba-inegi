@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "prueba-inegi"
+    }
+  },
+  "defaultProject": "prueba-inegi",
+  "cli": {
+    "analytics": "971a959a-4dab-4493-905a-4b13938b0d37"
+  }
 }
